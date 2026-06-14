@@ -180,5 +180,5 @@ The K-Means model successfully segmented **200 mall customers into 4 meaningful 
 **Sudharshan Gavvala**
 
 * Aspiring Data Scientist & Machine Learning Enthusiast
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/SudharshanGavvala/
+* LinkedIn: https://www.linkedin.com/in/sudharshangavvala/
